@@ -6,7 +6,7 @@
 
 **Student:** Yi-Wen Hsiao, PhD student in *Biostatics and Data Science* at National Taiwan University
 
-A Non-compulsory lecture (3 credits)
+*A Non-compulsory lecture (3 credits)*
 
 ### Assignment
 
@@ -14,7 +14,8 @@ A Non-compulsory lecture (3 credits)
   2. Assignment 2
   3. Assignment 3
 
-### Final Project (collaborated with Wan-Jung Wu, PhD student in *Epidemiology* at National Taiwan University)
+### Final Project 
+This project is collaborated with Wan-Jung Wu, PhD student in *Epidemiology* at National Taiwan University)
 
-  - A 10-minute oral proposal (05/05/2021):[slides]()
+  - A 10-minute oral proposal (05/05/2021): [slides]()
 
