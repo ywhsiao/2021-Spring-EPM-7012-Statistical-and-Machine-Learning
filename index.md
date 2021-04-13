@@ -15,7 +15,8 @@
   3. Assignment 3
 
 ### Final Project 
-This project is collaborated with Wan-Jung Wu, PhD student in *Epidemiology* at National Taiwan University)
+
+This project is collaborated with Wan-Jung Wu, PhD student in *Epidemiology* at National Taiwan University
 
   - A 10-minute oral proposal (05/05/2021): [slides]()
 
