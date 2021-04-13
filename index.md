@@ -14,7 +14,7 @@
   2. Assignment 2
   3. Assignment 3
 
-### Final Project 
+### Final Group Project 
 
 This project is collaborated with Wan-Jung Wu, PhD student in *Epidemiology* at National Taiwan University
 
