@@ -2,9 +2,9 @@
 
 **Objectives of this lecture:**
 
-**Lecturer:** Charllotte Wang, Associate professor
+**Lecturer:** Charllotte Wang, Associate professor in *Biostatics* at National Taiwan University
 
-**Student:** Yi-Wen Hsiao, PhD student in *Biostatics and Data Science* at National Taiwan University
+**Student:** Yi-Wen Hsiao, PhD student in *Biostatics* at National Taiwan University
 
 *A Non-compulsory lecture (3 credits)*
 
