@@ -19,4 +19,5 @@ This project is collaborated with Wan-Jung Wu, PhD student in *Epidemiology* at 
 
   - A 10-minute oral proposal (05/05/2021): [slides](https://docs.google.com/presentation/d/e/2PACX-1vRzCLltggyf-pWbobL2xwdjdbHNHbnC_2KlrDsNT5TRd09qABCO1-L6LO2_pWBoJsCjQ7tFjvJZfi8L/pub?start=false&loop=false&delayms=3000)
   - A 30-minute oral final report: [slides]()
+  - Poster: [pdf]()
 
