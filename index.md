@@ -1,8 +1,4 @@
-## 2021 Spring EPM 7012 Statistical and Machine Learning
-
-**Objectives of this lecture:**
-
-**Lecturer:** Charllotte Wang, Associate professor in *Biostatics* at National Taiwan University
+## 2021 Spring EPM 7012 Statistica and Machine Learning
 
 **Student:** Yi-Wen Hsiao, PhD student in *Biostatics* at National Taiwan University
 
@@ -18,6 +14,6 @@
 This project is collaborated with Wan-Jung Wu, PhD student in *Epidemiology* at National Taiwan University
 
   - A 10-minute oral proposal (05/05/2021): [slides](https://docs.google.com/presentation/d/e/2PACX-1vRzCLltggyf-pWbobL2xwdjdbHNHbnC_2KlrDsNT5TRd09qABCO1-L6LO2_pWBoJsCjQ7tFjvJZfi8L/pub?start=false&loop=false&delayms=3000)
-  - A 30-minute oral final report: [slides]()
+  - A 20-minute oral final report: [slides](https://docs.google.com/presentation/d/e/2PACX-1vQ2XrPIX7NazXaKf1MG6gi0oL48MJ-Dfh70dIB5sNznB-Q5TT4JIQ5zX8fWnWASuBtFc5V10hTC7d_t/pub?start=true&loop=false&delayms=3000)
   - Poster: [pdf]()
 
