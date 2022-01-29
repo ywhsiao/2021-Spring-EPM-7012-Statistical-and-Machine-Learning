@@ -11,7 +11,7 @@
 
 ### Final Group Project 
 
-This project is collaborated with Wan-Jung Wu, PhD student in *Epidemiology* at National Taiwan University and the project title is **Stock Trend Prediction using Machine Learning Algorithms**. Kindly refer the following documents.
+This project is collaborated with Wan-Jung Wu, PhD student in *Epidemiology* at National Taiwan University and the project title is **Stock Trend Prediction using Machine Learning Algorithms**. Kindly refer to the following documents.
 
   - A 10-minute oral proposal (05/05/2021): [slides](https://docs.google.com/presentation/d/e/2PACX-1vRzCLltggyf-pWbobL2xwdjdbHNHbnC_2KlrDsNT5TRd09qABCO1-L6LO2_pWBoJsCjQ7tFjvJZfi8L/pub?start=false&loop=false&delayms=3000)
   - A 20-minute oral final report (09/06/2021): [slides](https://docs.google.com/presentation/d/e/2PACX-1vQ2XrPIX7NazXaKf1MG6gi0oL48MJ-Dfh70dIB5sNznB-Q5TT4JIQ5zX8fWnWASuBtFc5V10hTC7d_t/pub?start=true&loop=false&delayms=3000)
